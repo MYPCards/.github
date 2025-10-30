@@ -95,7 +95,7 @@ Riftbound é um jogo de cartas de fantasia onde você comanda facções em batal
 
 - https://mypcards.com/riftbound
 
-+ Produtos
+### + Produtos
 Produtos abrange acessórios essenciais para proteger e organizar sua coleção, além de livros, jogos de tabuleiro, produtos selados para investimento e artigos geek variados. Esta categoria complementa sua experiência com itens que vão além das cartas avulsas.
 
 https://mypcards.com/outros
