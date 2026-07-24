@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# JetBrains IDEs (IntelliJ, PhpStorm, etc.)
+.idea/
+
+# VS Code
+.vscode/
+
+# Editor/OS temp files
+*.swp
+*~
+Thumbs.db
