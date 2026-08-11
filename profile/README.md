@@ -45,6 +45,7 @@ Cada jogo tem uma página na loja (🛒) e um guia de como jogar com simulador (
 | ![](https://img.shields.io/badge/-315b86?style=flat-square) | **Star Wars: Destiny** | Cartas e dados na galáxia | [🛒 Loja](https://mypcards.com/swdestiny) · [📘 Guia](https://mypcards.com/como-jogar/swdestiny) |
 | ![](https://img.shields.io/badge/-2b6cb0?style=flat-square) | **Star Wars: Unlimited** | Reviva as batalhas da saga | [🛒 Loja](https://mypcards.com/swunlimited) · [📘 Guia](https://mypcards.com/como-jogar/swunlimited) |
 | ![](https://img.shields.io/badge/-c8202a?style=flat-square) | **Vanguard** | Unidades e a mecânica de "ride" | [🛒 Loja](https://mypcards.com/vanguard) · [📘 Guia](https://mypcards.com/como-jogar/vanguard) |
+| ![](https://img.shields.io/badge/-9a7b2f?style=flat-square) | **Grand Archive** | Campeões que sobem de nível e deck de materiais | [🛒 Loja](https://mypcards.com/grandarchive) · [📘 Guia](https://mypcards.com/como-jogar/grandarchive) |
 
 ### 🧩 + Produtos
 
