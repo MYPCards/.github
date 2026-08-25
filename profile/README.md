@@ -46,13 +46,9 @@ Cada jogo tem uma página na loja (🛒) e um guia de como jogar com simulador (
 | ![](https://img.shields.io/badge/-2b6cb0?style=flat-square) | **Star Wars: Unlimited** | Reviva as batalhas da saga | [🛒 Loja](https://mypcards.com/swunlimited) · [📘 Guia](https://mypcards.com/como-jogar/swunlimited) |
 | ![](https://img.shields.io/badge/-c8202a?style=flat-square) | **Vanguard** | Unidades e a mecânica de "ride" | [🛒 Loja](https://mypcards.com/vanguard) · [📘 Guia](https://mypcards.com/como-jogar/vanguard) |
 | ![](https://img.shields.io/badge/-9a7b2f?style=flat-square) | **Grand Archive** | Campeões que sobem de nível e deck de materiais | [🛒 Loja](https://mypcards.com/grandarchive) · [📘 Guia](https://mypcards.com/como-jogar/grandarchive) |
-| ![](https://img.shields.io/badge/-c8102e?style=flat-square) | **Union Arena** | Personagens de diferentes universos
-em um único TCG | [🛒 Loja](https://mypcards.com/unionarena) · [📘 Guia](https://mypcards.com/como-jogar/unionarena) |
-| ![](https://img.shields.io/badge/-1c1c1c?style=flat-square) | **Weiß Schwarz** | Personagens de animes e jogos em
-batalhas de cartas | [🛒 Loja](https://mypcards.com/weissschwarz) · [📘 
-Guia](https://mypcards.com/como-jogar/weissschwarz) |
-| ![](https://img.shields.io/badge/-4a5568?style=flat-square) | **Warlord: Saga of the Storm** | Exércitos em fileiras
-e combate no d20 | [🛒 Loja](https://mypcards.com/warlord) · [📘 Guia](https://mypcards.com/como-jogar/warlord) |
+| ![](https://img.shields.io/badge/-c8102e?style=flat-square) | **Union Arena** | Personagens de diferentes universos em um único TCG | [🛒 Loja](https://mypcards.com/unionarena) · [📘 Guia](https://mypcards.com/como-jogar/unionarena) |
+| ![](https://img.shields.io/badge/-1c1c1c?style=flat-square) | **Weiß Schwarz** | Personagens de animes e jogos em batalhas de cartas | [🛒 Loja](https://mypcards.com/weissschwarz) · [📘 Guia](https://mypcards.com/como-jogar/weissschwarz) |
+| ![](https://img.shields.io/badge/-4a5568?style=flat-square) | **Warlord: Saga of the Storm** | Exércitos em fileiras e combate no d20 | [🛒 Loja](https://mypcards.com/warlord) · [📘 Guia](https://mypcards.com/como-jogar/warlord) |
 
 ### 🧩 + Produtos
 
