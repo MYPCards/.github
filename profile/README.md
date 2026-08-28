@@ -13,7 +13,7 @@ cartas avulsas · produtos selados · acessórios
 
 ---
 
-MYP Cards é uma plataforma online especializada em trading card games (TCGs) e produtos relacionados, oferecendo uma ampla variedade de cartas avulsas, produtos selados e acessórios para colecionadores e jogadores do Brasil. Trabalhamos com mais de 15 jogos e estamos sempre em expansão.
+MYP Cards é uma plataforma online especializada em trading card games (TCGs) e produtos relacionados, oferecendo uma ampla variedade de cartas avulsas, produtos selados e acessórios para colecionadores e jogadores do Brasil. Trabalhamos com mais de 20 jogos e estamos sempre em expansão.
 
 ## 📘 Como Jogar
 
